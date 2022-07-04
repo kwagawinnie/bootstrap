@@ -1,0 +1,89 @@
+.search{
+    background-color: #13505B;
+    color: #ffffff;
+    }
+
+    .input{
+        border-radius: 15px;
+        border: 2px solid #0C7489;
+        background-color: #D7D9CE;
+    }
+
+    .navbar{
+        background-color: #D7D9CE;
+    }
+
+    .navbar-nav{
+        margin-left: 13rem;
+    }
+
+    .search-group{
+        margin-left: 5rem;
+    }
+        .nav-link{
+        color: #13505B !important;
+    }
+
+    .categories{
+        background-color: #0C7489;
+        height: 22.5rem;
+    }
+
+    .display{
+        background-color: #D7D9CE;
+
+    }
+
+    .cart{
+        background-color: #13505B ;
+        width: 13rem;
+        height: 2rem;
+    }
+    .electronics{
+        background-color: #D7D9CE;
+        margin-left: 0.5rem;
+
+    }
+
+    .more{
+        color: #13505B;
+    }
+
+    .electronics-items{
+        background-color: rgba(215, 217, 206, 0.17);
+        margin-left: 1.3rem;
+        margin-right: 1.2rem;
+    }
+    .cart-btn{
+        background-color: #13505B;
+        height: 2rem;
+        width: 7rem;
+    }
+
+    .footer{
+        background-color: #323232;
+        margin-right: 1rem;
+    }
+    .bi-twitter{
+        background-color: #55ACEE;
+    }
+
+    .bi-instagram{
+        background-color: rgba(245, 7, 7, 1);
+    }
+
+    .bi-facebook{
+        background-color: #43A2EB;
+    }
+
+    .bi-whatsapp{
+        background-color: #00E676;
+
+    }
+    @media (max-width: 767.98px) {
+        .categories{
+            width: 90%;
+            margin-bottom: 1rem;
+            height: 15rem;
+        }
+    }
